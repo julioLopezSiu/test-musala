@@ -1,0 +1,21 @@
+{
+  "name": "test-musala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioLopezSiu/test-musala.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioLopezSiu/test-musala/issues"
+  },
+  "homepage": "https://github.com/julioLopezSiu/test-musala#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.1"
+  }
+}
