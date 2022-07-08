@@ -40,6 +40,7 @@ Headless in parallel:  `npx playwright test --project=firefox`
 Headless in order:  `npx playwright test --project=firefox --workers=1`
 
 **Runs the tests on Desktop Safari**
+
 In parallel:        `npx playwright test --project=webkit --headed`
 
 In order:           `npx playwright test --project=webkit --headed --workers=1`
